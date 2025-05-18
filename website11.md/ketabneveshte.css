@@ -1,0 +1,78 @@
+
+.navbar-brand {
+    background-color: rgb(70, 25, 62);
+   
+}
+.rang{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.card:hover img{
+  transform: scale(1.03);
+
+}
+
+.card img{
+  transition: all 300ms ease-in-out;
+  transform: scale(1);
+  width: 100%;
+  height: 100%;
+   /*object-fit: cover;*/
+   object-fit: contain;
+  
+}
+
+
+
+.navbar-nav a:hover{
+ 
+  text-decoration: underline;
+ }
+ 
+
+
+
+
+ 
+ 
+ 
+ #yt-totop{
+	display:inline-block;
+	position:fixed;
+	width:50px;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	font-size:22px;
+	bottom:20px;
+	left:20px;
+	z-index:3;
+	border-radius:6px;
+	background-color:#222;
+	color:#faf4f4;
+ 
+ }
+
+
+ .scrolltop{ 
+	display:none; 
+}
+ 
+ 
+ 
+ .footer p{
+    background-color: rgb(70, 25, 62);
+    color: #eff3f5;
+    text-align: center;
+ }
+
+
+
+
+
+
+ 
+
+
+ 
